@@ -6,6 +6,9 @@ The topic I chose was psychology because I have been interested in learning abou
 
 ### Engineering Design Process
 I am currently on step one of defining the problem. I want to find solutions in psychology for people to understand their feelings and behaviors using technology if they don't have access to a psychologist in real life. My plan is to create a website that helps people who feel confused or stressed about how they are feeling all for free. For the next step I will research more online and from people around me to help me with finding ideas to further expand my plan.
+
+### Skills
+A skill I have is communication 
 [Next](entry02.md)
 
 [Home](../README.md)
