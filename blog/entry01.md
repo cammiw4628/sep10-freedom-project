@@ -8,7 +8,7 @@ The topic I chose was psychology because I have been interested in learning abou
 I am currently on step one of defining the problem. I want to find solutions in psychology for people to understand their feelings and behaviors using technology if they don't have access to a psychologist in real life. My plan is to create a website that helps people who feel confused or stressed about how they are feeling all for free. For the next step I will research more online and from people around me to help me with finding ideas to further expand my plan.
 
 ### Skills
-A skill I have is communication 
+A skill I have is good **communication** because I have tutored kids younger than me and share my ideas with my peers. I accept new ideas and learning new things from my friends and classmates. If I ever am stuck with something on a website I am able to tell that to a peer or the teacher. I express most of my ideas and thoughts clearly and I am willing to help or listen to others. Another skill I have is good **time management** skills because I manage and organize all my afterschool activities such as clubs, club management and volunteering. I am in two clubs and have a role of social media manager for one of the clubs and I believe I am able to do my duties all while getting all my work turned in for school. Currently, all my studies are complete and I am doing well with clubs and other activities. 
 [Next](entry02.md)
 
 [Home](../README.md)
