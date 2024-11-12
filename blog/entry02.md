@@ -1,7 +1,7 @@
 # Software and Hardware of Psychology
 ##### 11/4/24
 ### Content
-Currently, I have researched on Google about my topic psychology. I have seen different websites and expanded my knowledge based on the information that was given from all these websites. Some things I have researched about was **software and hardware** technologies based on my topic of psychology. 
+Currently, I have researched on Google about my topic psychology. I have seen different websites and expanded my knowledge based on the information that was given from all these websites. Some things I have researched about was **software** and **hardware** technologies based on my topic of psychology. 
 
 #### What I have found
 I first started to find softwares online on google. I searched up _"psychology apps"_ and clicked the first website that caught my eye. This website is [psychology apps](https://careersinpsychology.org/15-psychology-apps-you-should-be-using/) and in this website there are many psychology apps that are helpful to use in order to take control of your own psychological health. I browsed through the apps and looked into some apps deeper to find out what the uses were. After I researched about hardwares in psychology by searching up _"Psychology Gadgets"_ and found the website [psychology gadgets](https://techround.co.uk/tech/mental-health-wearables-gadgets/). In this website there are many different gadgets that psychologists created to help depict human feelings and behaviors in order to help others improve. I took notes on some gadgets that are being used and researched deeper into them.  
