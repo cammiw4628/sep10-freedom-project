@@ -25,7 +25,7 @@ For my **Part B** brainstorming idea, I came up with different ideas that can be
 ## Engineering Design Process
 Currently, we are on **step three** of _Engineering Design Process_, where I am coming up with different solutions or requirements for my topic. 
 ## Skills
-
+I have developed some skills that can help with my topic of psychology. 
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
