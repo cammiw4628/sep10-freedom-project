@@ -1,7 +1,7 @@
-# Entry 3
-##### X/X/XX
+# Psychology 
+##### 12/18/24
+## Content
 
-Text
 
 [Previous](entry02.md) | [Next](entry04.md)
 
