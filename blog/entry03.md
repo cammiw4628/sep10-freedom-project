@@ -1,9 +1,9 @@
 # Psychology 
 ##### 12/18/24
 ## Content
-For my **Part B** brainstorming idea, I came up with different ideas that can benefit people in the field of psychology. Finding the ideas was a difficult process, so I took inspiration of every day items that can be transformed using technology. Human behavior can be really hard to determine, so I tried to think big and be creative over my ideas for the future technology devices. I thought of ways that the human emotion can be distinguished using my future devices for the future of psychology. Below are my lists of devices I came up with using the idea to understand the human mind.
+For my **Part B** brainstorming idea, I came up with different ideas that can benefit people in the field of psychology. Finding the ideas was a difficult process, so I took inspiration of every day items that can be transformed using technology. Human behavior can be really hard to determine, so I tried to think big and be creative over my ideas for the future technology devices. I thought of ways that the human emotion can be distinguished using my future devices for the future of psychology. Below are my lists of devices and desscriptions I came up with using the idea to understand the human mind.
  * Watch Bracelet
-   *   Checks the pulse of a person to understand their feelings
+   *   Identifies the pulse of a person to understand their feelings
    *   Make different types of beeps that are different vibrations on the wrist of the area that has the bracelet on, when your emotions are either sad, happy, mad, and more, to understand what is causing that type of vibration to occur.
  * Chronic Camera
    *   Camera that detects the facial expression when each picture is being taken
