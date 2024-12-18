@@ -23,7 +23,7 @@ For my **Part B** brainstorming idea, I came up with different ideas that can be
    *  The glasses can have memory storage to keep in mind what you hate and like to help you avoid feeling a certain negative mood.
 
 ## Engineering Design Process
-Currently, we are on engineering Design Process 
+Currently, we are on **step three** of _Engineering Design Process_, where I am coming up with different solutions or requirements for my topic. 
 ## Skills
 
 [Previous](entry02.md) | [Next](entry04.md)
