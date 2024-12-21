@@ -1,11 +1,13 @@
 # Blog Entry 03
 ##### 12/18/24
 ## Content
+### Part B ideas
 For my **Part B** brainstorming idea, I came up with different ideas that can benefit people in the field of psychology. Finding the ideas was a difficult process, so I took inspiration of every day items that can be transformed using technology. Human behavior can be really hard to determine, so I tried to think big and be creative over my ideas for the future technology devices. I thought of ways that the human emotion can be distinguished using my future devices for the future of psychology. Below are my lists of devices and descriptions I came up with using the idea to understand the human mind.
  * Watch Bracelet: Identifies the pulse of a person to understand their feelings and makes different beep vibrations that will occur from different common emotions(ex: sad, happy, mad).
  * Chronic Camera: Camera that detects the facial expression accurately. The camera will keep track of each emotion being shown to give additional information to help you with understanding your own emotions. To better back up the system, you can manually input your emotion in a specific picture to generate and keep in mind for future pictures you take with the camera, as well as looking back to keep photos in memory. 
  * Smart Support Animal: A stuffed animal that can detect and give feedback on what you physically say and question, similar to a build-a-bear but generates different answers each time.
  * Smart Glasses: Glasses read brain signals that are keeping you away from focusing and generates some advice to follow whenever you lose focus, which can encourage you to increase your attention span. The glasses can analyze and remember what you enjoy and dislike to show images that can improve your mood whenever you feel upset.
+### Finalizing Content
 After I have found and gathered all my ideas for Part A and Part B of my project, I started to finalize everything to prepare it for when I put everything on my website. I first edited all of my part A information of **software and hardware** and organized it into groups of low frequency, medium frequency, and high frequency of the gadgets and apps that I researched. Instead of calling it Part A and Part B, I changed Part A to be _Existing software and hardware_ because it was all gadgets and apps that were already created and I changed Part B to _The Future of Psychology_ because this is my idea on what I want to create for the future of psychology. After all that I created an introduction to summarize my main points on all the content I have found. 
 
 ## Engineering Design Process
