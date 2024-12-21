@@ -13,7 +13,7 @@ After I have found and gathered all my ideas for Part A and Part B of my project
 ## Engineering Design Process
 Currently, I am on **step three** of _Engineering Design Process_, where I am coming up with different solutions or requirements for my topic of psychology. 
 ## Skills
-I have developed some skills that can help with my topic of psychology. One skill is organization for all of my research I found and wrote down on my SEP10 notes. 
+One skill I developed was **organization** for all of my research I found and wrote down on my SEP10 notes. Organization for my freedom project notes made it much easier to put everything together to the main points of my topic. These skills improved as I was sorting all my apps and gadgets to different categories such as the frequency use of each app and gadget. Another skill I developed is **communication** because I needed an improvement on my inventions I created for what I wanted to create for the future of psychology. Communication through _Slack_ was helpful to me because my peers gave me feedback for what I can add, in order to improve my ideas further.
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
