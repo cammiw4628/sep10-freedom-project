@@ -1,20 +1,16 @@
 # Blog Entry 4
 ##### 2/24/25
 ## Content and Sources
-The tool I chose was [Animate.css](https://animate.style/) because animation is a tool that I would want to learn and incorporate into my project. Animation can make my project stand out more and feel appealing to other people viewing my work. I tinkered  with the tool by first doing the basic tutorial guided in the official website. After, I watched a video called [Animate.css the easiest animation library ever](https://youtu.be/VzbBcVRquYA?si=0PTfxOxvaJgiV0BV), which was extremely helpful to go over the basic guide on the website! When tinkering with the tool I also added other codes to make it more specific to what I want, such as how many times the animation will play and the duration of the animation. 
+The tool I chose was [Animate.css](https://animate.style/) because **animation** is a tool that I would want to learn and incorporate into my project. Animation can make my project stand out more and feel appealing to other people viewing my work. I tinkered  with the tool by first doing the basic tutorial guided in the official website. After, I watched a video called [Animate.css the easiest animation library ever](https://youtu.be/VzbBcVRquYA?si=0PTfxOxvaJgiV0BV), which was extremely helpful to go over the basic guide on the website! When tinkering with the tool I also added other codes to make it more specific to what I want, such as how many times the animation will play and the duration of the animation. 
 ### Steps I Took Coding
 #### Bounce
-I started to work on making a bouncing animated text duration that lasted for 3 seconds, as well as the animation repeating 3 times. I made a class for a paragraph element called 'class="animate__animated animate__bounce animate__repeat-3"' and I made sure to do the same class into my css but removed the "-3" or else my code is unable to repeat. I used the css code " --animate-repeat: 3;" and "--animate-duration: 3s;" and my paragraph element was able to bounce and last for 3 seconds, also repeat 3 times.
+I wanted to make a bouncing animated text duration that lasted for 3 seconds and repeating 3 times. My first step was to make a class for an h1 element called 'class="animate__animated animate__bounce animate__repeat-3"'. The `-3` is for the default iteration count for the number of time the animation will repeat, in this case it is 3. In my CSS I did the same class but added a `.` between each space that was in my HTML, so it would look like `.animate__animated.animate__bounce.animate__repeat` and I removed the "-3" or else my code will be bugged. I used the CSS code `--animate-repeat: 3;` for the number of time I want the animation to repeat. I still had to make a duration for the bounce that lasted up to 3 seconds, so instead I went into my CSS and I used the element `h1` with the bounce and put `--animate-duration: 3s;` for 3 seconds that the code will play for. This allowed my code to work perfectly! If I were to place the duration code into my repeat class I made, the duration will not work because the class is meant for repeat not the duration. 
 
-#### Hinge
-
-### Code snippets
-#### HTML codes
-```html
-<h1 class="animate__animated animate__bounce animate__repeat-3 center">Animation practice</h1>
-<h2 class="animate__animated animate__hinge animate__repeat-3 center">Hinge text</h2>
+#### Bounce HTML Code
+```HTML
+<h1 class="animate__animated animate__bounce animate__repeat-3">Animation practice</h1>
 ```
-#### CSS codes
+#### Bounce CSS Code
 ```CSS
             .animate__animated.animate__bounce.animate__repeat {
                 --animate-repeat: 3;
@@ -22,10 +18,15 @@ I started to work on making a bouncing animated text duration that lasted for 3 
             h1 {
                 --animate-duration: 3s;
             }
-
-            .center {
-                text-align: center;
-            }
+```
+#### Hinge
+I tinkered with some animation code that Animate.css offered to us, one of them was _hinge_. Hinge was similar to how we did with the bounce, but we replaced the bounce with hinge. I wanted the hinge text to last for 5 seconds and repeat 3 times, so we started by creating a class called `class="animate__animated animate__hinge animate__repeat-3"` in our h2 element. The next step was to put the class into our CSS with `.` between the spaces from the HTML, so it was called `.animate__animated.animate__hinge.animate__repeat` and used the CSS code `--animate-repeat: 3;` to repeat hinge 3 times. I used the element `h2` and put `--animate-duration: 5s;` for the 5 second duration of the code. My hinge code was able to work and below are the codes to how I made the hinge code. 
+#### Hinge HTML codes
+```HTML
+<h2 class="animate__animated animate__hinge animate__repeat-3">Hinge text</h2>
+```
+#### Hinge CSS codes
+```CSS
             .animate__animated.animate__hinge.animate__repeat {
                 --animate-repeat: 3;
             }
@@ -34,7 +35,7 @@ I started to work on making a bouncing animated text duration that lasted for 3 
             }
 ```
 
-### Code Product
+### Bounce and Hinge Code Product
 
 ## Skills
 A skill I was able to develop is 
