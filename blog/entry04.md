@@ -36,9 +36,10 @@ I tinkered with some animation code that Animate.css offered to us, one of them 
 ```
 
 ### Bounce and Hinge Code Product
+![Screenshot 2025-03-02 7 35 32 PM](https://github.com/user-attachments/assets/e6ad5dd7-fc6a-4587-80a7-501b1a233e40)
 
 ## Skills
-A skill I was able to develop is 
+A skill I was able to develop is **learning basic animation** because Animate.css was able to help me be guided to all the basic usage of CSS, which was very simple and clear to learn as a beginner of animating texts. After tinkering with the animation codes in my IDE, I was able to learn many simple ways of animating the text, such as hinge and bouncing texts. Another skill I was able to develop is **paying attention to details** because I was able to recognize the `.` in my CSS for animation that was in replace of the space in my HTML. This detail helped a lot in creating my animation in my CSS.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
