@@ -12,14 +12,19 @@
  * Slower text at 3 seconds `animate__slower`
  * Fast text at 800 millisecond `animate__fast`
  * Faster text at 500 millisecond `animate__faster`
-#### Heading and Paragraph Code:
+#### Faster and Slower
 ```HTML
-<h2 class="animate__animated animate__bounceIn animate__faster center">Fast heading</h2>
-<p class="animate__animated animate__backInUp animate__slower center"> SLOW TEXT Lorem ipsum odor amet,
+<h2 class="animate__animated animate__bounceIn animate__faster">Faster heading</h2>
+<p class="animate__animated animate__backInUp animate__slower"> SLOWER TEXT Lorem ipsum odor amet,
 consectetuer adipiscing elit. Integer tristique fermentum ex nisi felis tortor arcu accumsan..</p>
 ```
+By adding the class `animate__faster` or `animate__faster` the speed of how long the animate will last for changes, which is similar to the duration of the animation because of the speed changing. My `h2` will be much faster compared to my `p` tag when it plays the animation.
 
+#### Image With Animation
 
+```HTML
+<img class="animate__animated animate__jackInTheBox animate__slower left" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
+```
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
