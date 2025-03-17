@@ -39,12 +39,13 @@ Image with animation is the same as any other element because all you do is just
  * Delay for 3 seconds `animate__delay-3s`
  * Delay for 4 seconds `animate__delay-4s`
  * Delay for 5 seconds `animate__delay-5s`
-#### Delay on Text and Images
+#### Delay on Text
 For my texts I wanted my paragraph to play slower than the other animations but not too slow. I directly set the animation to be `animate__delay-2s` and my delay on the paragraph tag was able to work, it was much slower.
 ```HTML
  <p class="animate__animated animate__backInUp animate__slower animate__delay-2s center"> SLOWER TEXT Lorem ipsum odor amet, consectetuer adipiscing elit.
  Integer tristique fermentum ex nisi felis tortor..<p>
 ```
+#### Delay on Images
 I wanted my image to appear more slower than the paragraph tag and all the other animations. I added the class `animate__delay-4s` to my image, in order for my image to appear slower compared to other animates. My image animation will not play until the 4 seconds is over and then it will play the according animation.
 ```HTML
 <img class="animate__animated animate__jackInTheBox animate__slower left animate__delay-4s" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
