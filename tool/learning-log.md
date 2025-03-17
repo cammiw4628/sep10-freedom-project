@@ -24,11 +24,17 @@ consectetuer adipiscing elit. Integer tristique fermentum ex nisi felis tortor a
 ```
 
 #### Image With Animation
-Image with animation is the same as any other element because all you do is just add a class with the animation that you want to play, it does not matter if you want it to be fast or slow, there is a **variety** of options to choose from. Below is my code with an external image with a **slower** pace animation to it. 
+Image with animation is the same as any other element because all you do is just add a class with the animation that you want to play, it does not matter if you want it to be fast or slow, there is a **variety** of options to choose from. Below is my code with an external image with a **slower** pace animation to it.
 ```HTML
 <img class="animate__animated animate__jackInTheBox animate__slower" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
 ```
+
+### 3/10/25
+ * I learned is learning how to use delayes.
+```HTML
+<img class="animate__animated animate__jackInTheBox animate__slower left animate__delay-3s" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
 <!--
+
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
