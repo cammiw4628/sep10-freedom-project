@@ -30,7 +30,7 @@ Image with animation is the same as any other element because all you do is just
 ```
 
 ### 3/10/25
- * I learned is learning how to use **delayes** on animate.css
+ * I learned how to use **delayes** on `animate.css`
    *    Delays are used to **control** when the animation will start to play.
    *    Delays can be **directly added** to the element's class
    *    It will last to 1-5 seconds delays.
