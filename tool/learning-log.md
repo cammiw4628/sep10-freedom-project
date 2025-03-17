@@ -4,7 +4,7 @@
 
 ---
 
-### 3/3/25:
+### 3/3/25: Learning Log 1
  * I learned how to make use classes to create **faster or slower speed**, as well as having an image with animation!
     *   Here are the class names provided by animate.css with the speed.
 #### Classes:
@@ -29,7 +29,7 @@ Image with animation is the same as any other element because all you do is just
 <img class="animate__animated animate__jackInTheBox animate__slower" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
 ```
 
-### 3/10/25
+### 3/10/25 Learning Log 2
  * I learned how to use **delayes** on `animate.css`
    *    Delays are used to **control** when the animation will start to play.
    *    Delays can be **directly added** to the element's class
@@ -50,6 +50,9 @@ I wanted my image to appear more slower than the paragraph tag and all the other
 ```HTML
 <img class="animate__animated animate__jackInTheBox animate__slower left animate__delay-4s" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
 ```
+### 3/17/25: Learning Log 3
+I learned how to 
+
 <!--
 
 * Links you used today (websites, videos, etc)
