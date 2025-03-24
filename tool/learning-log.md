@@ -70,6 +70,15 @@ I learned how to use multiple animation to make my project more clear and presen
 ```
 
 ### 3/17/25: Learning Log 4
+I learned how to repeat my animation to continue repeating instead of a designated time.
+ * Infinite: Goes on forever, no stop
+ * Infinite class code name: `animate__infinite`
+I have to keep in mind that this animation can annoy some users but I will try to use it effectively for my website for my users to not feel distracted.
+
+#### Infinite Image Animation
+```HTML
+ <img class="animate__animated animate__heartBeat animate__slower left animate__infinite sun" src="https://static.vecteezy.com/system/resources/previews/047/463/682/non_2x/cartoon-sun-transparent-background-free-png.png" id="sun" alt="sun" />
+```
 
 <!--
 
