@@ -54,7 +54,7 @@ I wanted my image to appear more slower than the paragraph tag and all the other
 I learned how to use multiple animation to make my project more clear and presentable. 
 #### What I Need to Know
  * Add a space when you are putting a class in an element in HTML
- * In your css put the same class name but instead of a space but a .
+ * In your CSS put the same class name but instead of a space but a `.`
  * Make sure to always follow these rules for multiple animation factors.
 #### HTML Code
 
