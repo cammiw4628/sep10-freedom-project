@@ -69,7 +69,7 @@ I learned how to use multiple animation to make my project more clear and presen
             }
 ```
 
-### 3/17/25: Learning Log 4
+### 3/24/25: Learning Log 4
 I learned how to repeat my animation to continue repeating instead of a designated time.
  * Infinite: Goes on forever, no stop
  * Infinite class code name: `animate__infinite`
