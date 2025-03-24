@@ -51,7 +51,25 @@ I wanted my image to appear more slower than the paragraph tag and all the other
 <img class="animate__animated animate__jackInTheBox animate__slower left animate__delay-4s" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
 ```
 ### 3/17/25: Learning Log 3
-I learned how to 
+I learned how to use multiple animation to make my project more clear and presentable. 
+#### What I Need to Know
+ * Add a space when you are putting a class in an element in HTML
+ * In your css put the same class name but instead of a space but a .
+ * Make sure to always follow these rules for multiple animation factors.
+#### HTML Code
+
+```HTML
+<h2 class="animate__animated animate__bounceIn animate__faster">Faster heading</h2>
+```
+#### CSS Code
+
+```CSS
+    .animate__animated.animate__hinge.animate__repeat {
+                --animate-repeat: 3;
+            }
+```
+
+3/24/25
 
 <!--
 
