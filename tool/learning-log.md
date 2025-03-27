@@ -75,6 +75,10 @@ I learned how to repeat my animation to continue repeating instead of a designat
  * Infinite class code name: `animate__infinite`                
 I have to keep in mind that this animation can annoy some users but I will try to use it effectively for my website for my users to not feel distracted.
 
+#### Infinite Text
+```HTML
+<p class="animate__animated animate__bounce animate__infinite">Infinite text</p>
+```
 #### Infinite Image Animation
 ```HTML
  <img class="animate__animated animate__heartBeat animate__slower left animate__infinite sun" src="https://static.vecteezy.com/system/resources/previews/047/463/682/non_2x/cartoon-sun-transparent-background-free-png.png" id="sun" alt="sun" />
