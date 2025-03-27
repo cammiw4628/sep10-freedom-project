@@ -76,6 +76,7 @@ I learned how to repeat my animation to continue repeating instead of a designat
 I have to keep in mind that this animation can annoy some users but I will try to use it effectively for my website for my users to not feel distracted.
 
 #### Infinite Text
+I used a `p` tag for my text and made sure to include the class `animate__animated` the animation I want to use and the infinite class of `animate__infinite`. This way my text will bounce non stop for the rest of the time on my website.
 ```HTML
 <p class="animate__animated animate__bounce animate__infinite">Infinite text</p>
 ```
