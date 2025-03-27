@@ -81,6 +81,7 @@ I used a `p` tag for my text and made sure to include the class `animate__animat
 <p class="animate__animated animate__bounce animate__infinite">Infinite text</p>
 ```
 #### Infinite Image Animation
+FOr my image, I found a image from an outside source of a sun and copied the URL and added my needed classes and the infinite class. My sun will be able to stand out a lot more to viewers because of the animation moving.
 ```HTML
  <img class="animate__animated animate__heartBeat animate__slower left animate__infinite sun" src="https://static.vecteezy.com/system/resources/previews/047/463/682/non_2x/cartoon-sun-transparent-background-free-png.png" id="sun" alt="sun" />
 ```
