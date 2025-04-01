@@ -4,7 +4,7 @@
 
 ---
 
-### 3/3/25:
+### 3/3/25: Learning Log 1
  * I learned how to make use classes to create **faster or slower speed**, as well as having an image with animation!
     *   Here are the class names provided by animate.css with the speed.
 #### Classes:
@@ -29,7 +29,7 @@ Image with animation is the same as any other element because all you do is just
 <img class="animate__animated animate__jackInTheBox animate__slower" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
 ```
 
-### 3/10/25
+### 3/10/25 Learning Log 2
  * I learned how to use **delayes** on `animate.css`
    *    Delays are used to **control** when the animation will start to play.
    *    Delays can be **directly added** to the element's class
@@ -50,6 +50,42 @@ I wanted my image to appear more slower than the paragraph tag and all the other
 ```HTML
 <img class="animate__animated animate__jackInTheBox animate__slower left animate__delay-4s" src="https://static.vecteezy.com/system/resources/thumbnails/018/742/203/small_2x/3d-minimal-world-cartoon-globe-3d-illustration-free-png.png" id="world" alt="" />
 ```
+### 3/17/25: Learning Log 3
+I learned how to use multiple animation to make my project more clear and presentable. 
+#### What I Need to Know
+ * Add a space when you are putting a class in an element in HTML
+ * In your CSS put the same class name but instead of a space but a `.`
+ * Make sure to always follow these rules for multiple animation factors.
+#### HTML Code
+
+```HTML
+<h2 class="animate__animated animate__bounceIn animate__faster">Faster heading</h2>
+```
+#### CSS Code
+
+```CSS
+    .animate__animated.animate__hinge.animate__repeat {
+                --animate-repeat: 3;
+            }
+```
+
+### 3/24/25: Learning Log 4
+I learned how to repeat my animation to continue repeating instead of a designated time.
+ * Infinite: Goes on forever, no stop
+ * Infinite class code name: `animate__infinite`                
+I have to keep in mind that this animation can annoy some users but I will try to use it effectively for my website for my users to not feel distracted.
+
+#### Infinite Text
+I used a `p` tag for my text and made sure to include the class `animate__animated` the animation I want to use and the infinite class of `animate__infinite`. This way my text will bounce non stop for the rest of the time on my website.
+```HTML
+<p class="animate__animated animate__bounce animate__infinite">Infinite text</p>
+```
+#### Infinite Image Animation
+FOr my image, I found a image from an outside source of a sun and copied the URL and added my needed classes and the infinite class. My sun will be able to stand out a lot more to viewers because of the animation moving.
+```HTML
+ <img class="animate__animated animate__heartBeat animate__slower left animate__infinite sun" src="https://static.vecteezy.com/system/resources/previews/047/463/682/non_2x/cartoon-sun-transparent-background-free-png.png" id="sun" alt="sun" />
+```
+
 <!--
 
 * Links you used today (websites, videos, etc)
