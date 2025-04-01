@@ -70,18 +70,20 @@ I learned how to use multiple animation to make my project more clear and presen
 ```
 
 ### 3/24/25: Learning Log 4
-I learned how to repeat my animation to continue repeating instead of a designated time.
+I learned how to repeat my animation to **continue** repeating instead of a designated time.
  * Infinite: Goes on forever, no stop
- * Infinite class code name: `animate__infinite`                
-I have to keep in mind that this animation can annoy some users but I will try to use it effectively for my website for my users to not feel distracted.
+ * Infinite class code name: `animate__infinite`
+ * Can help attract outside users from the repeating animation
+I have to keep in mind that this animation can annoy some users but I will try to use it effectively for my website for my users to not feel distracted by the repeating animation.
 
 #### Infinite Text
-I used a `p` tag for my text and made sure to include the class `animate__animated` the animation I want to use and the infinite class of `animate__infinite`. This way my text will bounce non stop for the rest of the time on my website.
+I used a `p` tag for my text and made sure to include the class `animate__animated` before the infinite class animation of `animate__infinite`. This way my text will bounce non-stop for the rest of the time on my website.    
+I have to also keep in mind an infinite animated text can be hard to read for users, so I have to keep using it wisely.
 ```HTML
 <p class="animate__animated animate__bounce animate__infinite">Infinite text</p>
 ```
 #### Infinite Image Animation
-FOr my image, I found a image from an outside source of a sun and copied the URL and added my needed classes and the infinite class. My sun will be able to stand out a lot more to viewers because of the animation moving.
+For my image, I found a image from an outside source of a sun and copied the URL and added my needed classes and the infinite class. My sun will be able to stand out a lot more to viewers because of the moving animation.
 ```HTML
  <img class="animate__animated animate__heartBeat animate__slower left animate__infinite sun" src="https://static.vecteezy.com/system/resources/previews/047/463/682/non_2x/cartoon-sun-transparent-background-free-png.png" id="sun" alt="sun" />
 ```
