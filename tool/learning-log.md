@@ -91,7 +91,7 @@ For my image, I found a image from an outside source of a sun and copied the URL
 I learned how to understand basic keyframes by watching a video, [Keyframes Video](https://www.youtube.com/watch?v=PjR97QzOrJM).
  * Always give your keyframes a unique name or else it may not work
  * use `from` and `to` in your keyframe
-     *     From to somewhere to another place
+     *   From to somewhere to another place
  * using transform for keyframes
  * use rotate to add a spin
  * 360 degrees is to go all around
