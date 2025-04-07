@@ -87,7 +87,7 @@ For my image, I found a image from an outside source of a sun and copied the URL
 ```HTML
  <img class="animate__animated animate__heartBeat animate__slower left animate__infinite sun" src="https://static.vecteezy.com/system/resources/previews/047/463/682/non_2x/cartoon-sun-transparent-background-free-png.png" id="sun" alt="sun" />
 ```
-### 4/6/25: Learning Log 4
+### 4/6/25: Learning Log 5
 I learned how to understand basic keyframes by watching a video, [Keyframes Video](https://www.youtube.com/watch?v=PjR97QzOrJM).
  * Always give your keyframes a unique name or else it may not work
  * use `from` and `to` in your keyframe
