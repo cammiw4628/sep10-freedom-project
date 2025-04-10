@@ -20,13 +20,50 @@ body {
 
 .information {
     border: 4px solid black;
+    background-color: #dcfae5;
 }
 
 .square {
-  height: 50px;
-  width: 50px;
-  background-color: #555;
+  height: 95px;
+  width: 95px;
+  background-color: green;
 }
+.trapezoid {
+	width: 0;
+	height: 0;
+	border-left: 45px solid transparent;
+	border-right: 45px solid transparent;
+	border-bottom: 95px solid red;
+    margin-left: 15px;
+}
+.circle {
+  height: 85px;
+  width: 85px;
+  background-color: blue;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+.rectangle {
+    margin-left: 30px;
+    height: 80px;
+    width: 100px;
+    background-color: yellow;
+}
+
+h2 {
+    text-align: center;
+}
+
+#peony {
+    width: 200px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+
 </style>
 </head>
 <body>
@@ -34,23 +71,31 @@ body {
         <div class="container-fluid">
             <h1 class="animate__animated animate__tada">Flower Shop</h1>
             <div class="row">
-                <div class="col-md-6 information">
+                <div class="col-md-6 information center">
                     <h2 class="animate__animated animate__fadeIn">Information:</h2>
                         <p>Stuff blah blah blah  blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+                    <img id="peony" src="peony.png" alt="peony"/>
                 </div>
-                <div class="col-md-6 information">
+                <div class="col-md-6 information center">
                     <h2 class="animate__animated animate__fadeIn">More Information:</h2>
                         <p>Stuff blah blah blah  blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+                    <img id="rose" src="rose.png" alt="rose"/>
                 </div>
-                <div class="col-md-6 information">
+                <div class="col-md-6 information center">
                     <h2 class="animate__animated animate__fadeIn">Even More Information:</h2>
                         <p>Stuff blah blah blah  blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+                    <img id="lily" src="lily.png" alt="lily"/>
                 </div>
-                <div class="col-md-6 information">
+                <div class="col-md-6 information center">
                     <h2 class="animate__animated animate__fadeIn">Bigger Information:</h2>
                         <p>Stuff blah blah blah  blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+                    <img id="daisy" src="daisy.png" alt="daisy"/>
                 </div>
+<h2>Shape Dance Break!</h2>
 <div class="square animate__animated animate__flash"></div>
+<div class="trapezoid animate__animated animate__bounce"></div>
+<div class="circle animate__animated animate__flip"></div>
+<div class="rectangle animate__animated animate__zoomIn"></div>
             </div>
         </div>
     </div>
