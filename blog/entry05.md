@@ -3,7 +3,7 @@
 
 ## Content
 ### What I Learned
-What I have learned about my tool is that I learned almost everything on the [Animate.css](https://animate.style/) page but I learned some skills by watching a variety of youtube videos to help me tinker with my tool.
+What I have learned about my tool is that I learned almost everything on the [Animate.css](https://animate.style/) page but I learned some skills by watching a variety of youtube videos to help me tinker with my tool.         
 Those include..
  * Faster and slower speed
     *    Used to determine the duration of an animation
@@ -29,6 +29,11 @@ I learned my tool by reading the documentation from the [animate.css](https://an
 
 #### Keyframes
 What I mainly want to focus on is keyframes because this was the most difficult to me because it took me a long time to figure out ways to tinker with keyframes that can be used with my tool, animate.css.
+
+#### Codes
+
+#### Product
+![Screenshot 2025-04-11 1 24 21 PM](https://github.com/user-attachments/assets/e50a2fcc-2f5e-4367-9b17-28a8a283f7e3)
 
 ## Skills
 
