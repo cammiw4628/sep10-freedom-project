@@ -1,10 +1,10 @@
 # Entry 5
 ##### 4/11/25
 
-## Content
+## Content and Sources
 ### What I Learned
-What I have learned about my tool is that I learned almost everything on the [Animate.css](https://animate.style/) page but I learned some skills by watching a variety of youtube videos to help me tinker with my tool.         
-Some of those include..
+What I have learned about my tool is that I learned almost everything on the [Animate.css](https://animate.style/) page but I learned some skills by watching a variety of youtube videos to help me tinker with my tool for my upcoming freedom project.
+Some skills include..
  * Faster and slower speed
     *    Used to determine the duration of an animation
     *    Can be fast or slow
@@ -25,11 +25,12 @@ Some of those include..
     *    Shape animations can make people guided towards the website, in order to make them want to learn how to do the animation.
     *    Used to decorate my website      
 ### How I Learned my Tool
-I learned my tool by reading the documentation from the [animate.css](https://animate.style/#documentation) page and searched up videos on what I need to know to help me tinker with my tool.
+I learned my tool by reading the documentation from the [animate.css](https://animate.style/#documentation) page and searched up videos on what I need to know to help me tinker with my tool. I watched a video that I watched is [How to Make Basic Shapes](https://youtu.be/eaIZciwSI9s?si=61TSPdHFjaKTDwdZ) because I will be animating shapes, which is different than animating text or images and I need to know how to make a shape before actually coding.      
 
 #### Shape Animation
+I wanted to try something new instead of only tinkering with text and images because I wanted something that can stand out more to other people. So I decided to use shapes as a way to make things seem more fun rather than using texts and images for animation. After watching the [shape tutorial](https://youtu.be/eaIZciwSI9s?si=61TSPdHFjaKTDwdZ) and coding, I decided to now add animation to the shapes to test if the shapes will be animated. I determined that animation on shapes work perfectly by making and changing animations onto the different shapes. I also added a repeating class,`animate__repeat-3`, that repeats the animation 3 times with the animation to be more entertaining.
 
-#### Codes
+#### Code
 ```HTML
 <h2>Shape Dance Break!</h2>
 <div class="square animate__animated animate__flash animate__repeat-3"></div>
