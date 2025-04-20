@@ -30,7 +30,12 @@ I learned my tool by reading the documentation from the [animate.css](https://an
 #### Shape Animation
 
 #### Codes
-
+```HTML
+<h2>Shape Dance Break!</h2>
+<div class="square animate__animated animate__flash animate__repeat-3"></div>
+<div class="circle animate__animated animate__flip animate__repeat-3"></div>
+<div class="rectangle animate__animated animate__zoomIn animate__repeat-3"></div>
+```
 #### Product
 [Screen recording 2025-04-20 6.19.16 PM.webm](https://github.com/user-attachments/assets/9d645986-9cca-45f3-9fd3-572f9644920c)
 
