@@ -27,13 +27,12 @@ Some of those include..
 ### How I Learned my Tool
 I learned my tool by reading the documentation from the [animate.css](https://animate.style/#documentation) page and searched up videos on what I need to know to help me tinker with my tool.
 
-#### Keyframes
-What I mainly want to focus on is keyframes because this was the most difficult to me because it took me a long time to figure out ways to tinker with keyframes that can be used with my tool, animate.css.
+#### Shape Animation
 
 #### Codes
 
 #### Product
-![Screenshot 2025-04-11 1 24 21 PM](https://github.com/user-attachments/assets/e50a2fcc-2f5e-4367-9b17-28a8a283f7e3)
+[Screen recording 2025-04-20 6.19.16 PM.webm](https://github.com/user-attachments/assets/9d645986-9cca-45f3-9fd3-572f9644920c)
 
 ## Skills
 
