@@ -9,26 +9,26 @@ Some skills include..
     *    Used to determine the duration of an animation
     *    Can be fast or slow
  * Image animation
-    *    Make images more appealing
-    *    Outside users can be attracted to look into the website
+    *    Make images more appealing.
+    *    Outside users can be attracted to look into the website.      
  * Delay animation
-    *    Used to control when the animation will play
-    *    Time when you want animation to take place
+    *    Used to control when the animation will play.
+    *    Time when you want animation to take place.       
  * Having multiple animate.css classes in one element
-    *    Multiple classes can help the animation be in control of how you want to set it up as 
+    *    Multiple classes can help the animation be in control of how you want to set it up as.    
  * Infinite class animation
-    *    Users can feel curious about the animation
-    *    Animation can repeat forever 
+    *    Users can feel curious about the animation.
+    *    Animation can repeat forever.   
  * Keyframes
-    *    Can be used alongside animate.css to make website more prsentable 
+    *    Can be used alongside animate.css to make website more presentable.    
  * Shapes with animation
     *    Shape animations can make people guided towards the website, in order to make them want to learn how to do the animation.
-    *    Used to decorate my website      
+    *    Used to decorate my website.
 ### How I Learned my Tool
 I learned my tool by reading the documentation from the [animate.css](https://animate.style/#documentation) page and searched up videos on what I need to know to help me tinker with my tool. I watched a video that I watched is [How to Make Basic Shapes](https://youtu.be/eaIZciwSI9s?si=61TSPdHFjaKTDwdZ) because I will be animating shapes, which is different than animating text or images and I need to know how to make a shape before actually coding.      
 
 #### Shape Animation
-I wanted to try something new instead of only tinkering with text and images because I wanted something that can stand out more to other people. So I decided to use shapes as a way to make things seem more fun rather than using texts and images for animation. After watching the [shape tutorial](https://youtu.be/eaIZciwSI9s?si=61TSPdHFjaKTDwdZ) and coding, I decided to now add animation to the shapes to test if the shapes will be animated. I determined that animation on shapes work perfectly by making and changing animations onto the different shapes. I also added a repeating class,`animate__repeat-3`, that repeats the animation 3 times with the animation to be more entertaining.
+I wanted to try something new instead of only tinkering with text and images because I wanted something that can stand out more to other people. So I decided to use shapes as a way to make things seem more fun rather than using texts and images for animation. After watching the [shape tutorial](https://youtu.be/eaIZciwSI9s?si=61TSPdHFjaKTDwdZ) and coding, I decided to now add animation to the shapes to test if the shapes will be animated. I determined that animation on shapes work perfectly by making and changing animations onto the different shapes. I also added a repeating class,`animate__repeat-3`, that repeats the animation 3 times to be more entertaining.
 
 #### Code
 ```HTML
