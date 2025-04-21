@@ -3,7 +3,7 @@
 
 ## Content and Sources
 ### What I Learned
-What I have learned about my tool is that I learned almost everything on the [Animate.css](https://animate.style/) page but I learned some skills by watching a variety of youtube videos to help me tinker with my tool for my upcoming freedom project.
+What I have learned about my tool is that I learned almost everything on the [Animate.css](https://animate.style/) page but I learned some skills by watching a variety of youtube videos to help me tinker with my tool for my upcoming freedom project. One video I watched was about [How to Make Basic Shapes](https://youtu.be/eaIZciwSI9s?si=61TSPdHFjaKTDwdZ) that I can include in my future website
 Some skills include..
  * Faster and slower speed
     *    Used to determine the duration of an animation
