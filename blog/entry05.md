@@ -41,7 +41,7 @@ I wanted to try something new instead of only tinkering with text and images bec
 [Screen recording 2025-04-20 6.19.16 PM.webm](https://github.com/user-attachments/assets/9d645986-9cca-45f3-9fd3-572f9644920c)
 
 ## Skills
-
+A skill I was able to develop is learning how to create **shape animations** because instead of using only text and image animations, shapes can feel more appealing compared to them. I want to create a variety with all three for my website and shapes was added along the way that can be much more enjoyable. Another skill is being **creative** because I used my time to determine what I can animate and thought up of something else that can play a significant role in what I want to create for my futre websites. Creativity can be very helpful in many of my upcoming projects and to let my ideas be known and used.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
