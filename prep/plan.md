@@ -1,16 +1,16 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](phone1.png)
+* [Desktop](computer1.png)
 
 ## Bootstrap Components/Layouts
  * Navbar
  * Carousel
  * Cards
- * List groups (If time)
+ * List groups
  * Containers, grid, rows, and columns
- 
+
 ## Colors
 * Linear Gradient with..
    *   Different shades of purple
@@ -31,10 +31,6 @@
  * 4/28/25 - 4/29/25: Add images and carousel component.
  * 4/30/25 - 5/3/25: Add components, color, fonts, and grid system.
  * 5/4/25 - 5/5/25: Finish all I need for my design.
-
-#### MVP
-
-* Task/Timeline
 
 ---
 
