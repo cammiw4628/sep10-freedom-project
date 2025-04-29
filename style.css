@@ -1,0 +1,16 @@
+.navbar a:hover {
+    background: gray;
+    color: white;
+}
+
+.navbar {
+    background-color: #cbdef2;
+}
+
+.intro {
+    border: 1px solid black;
+}
+
+.brain {
+    width: 10;
+}
