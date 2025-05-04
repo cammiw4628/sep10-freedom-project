@@ -3,10 +3,6 @@
     color: white;
 }
 
-.navbar {
-    background-color: #cbdef2;
-}
-
 .intro {
     border: 1px solid black;
 }
@@ -24,7 +20,7 @@
 }
 
 .fix {
-    width: 45%;
+    width: 30%;
 }
 
 .quote {
@@ -42,4 +38,29 @@
 body {
     background: #c894d4;
     background: linear-gradient(90deg, rgba(200, 148, 212, 1) 0%, rgba(155, 151, 232, 1) 25%, rgba(200, 166, 237, 1) 50%, rgba(155, 151, 232, 1) 75%, rgba(200, 148, 212, 1) 100%);
+}
+
+.color {
+    background-color: #9e94f7;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.stuff {
+    padding: 90px;
+    margin: 50px;
+}
+
+.main-stuff {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-width: 600%;
+    padding: 300px;
 }
