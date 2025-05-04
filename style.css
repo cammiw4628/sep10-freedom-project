@@ -14,3 +14,11 @@
 .psychology {
     width: 450px;
 }
+
+.chart {
+    border: 4px solid black;
+    }
+
+.center {
+    text-align: center;
+}
