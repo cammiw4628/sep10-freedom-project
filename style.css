@@ -11,8 +11,8 @@
     border: 1px solid black;
 }
 
-.psychology {
-    width: 450px;
+.photo {
+    width: 460px;
 }
 
 .chart {
@@ -21,4 +21,8 @@
 
 .center {
     text-align: center;
+}
+
+.fix {
+    width: 45%;
 }
