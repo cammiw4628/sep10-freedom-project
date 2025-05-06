@@ -39,16 +39,10 @@
 * Fix any errors in my website
 * Add components like list group
 
-
-
-
-
-
-
-<!-- DO NOT USE THIS YET
+#### Peer Feedback
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| Edward | I like the fading purple and blueish color scheme. I also like how you added an image as the first thing you'll see when on the website. It makes it look cooler.  | I think making the text and images more responsive would make the website look bettter because it would all fit better onto screens. |
 |   |   |
 |   |   |
 |   |   |
