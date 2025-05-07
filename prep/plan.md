@@ -47,3 +47,9 @@
 | Jehan | I like the color scheme that you used for you website. I also like how you were able to use the containers and rows to organize your content, especially when it's responsive. | Connsider fixing the alignment, so that there's spacing between the card and the images when the veiwport is smaller. You could also consider making the sizes of the images to be responsive. 
 | Alialrida | I like everything about this project the;the intro perfect,the images and carosuel are above avergae and everything else all the bullet points and pargraphs are organized neatly in the columns and rows. | My only concern is that the image of the chronic camera is partially under the bullet points for its description.
 | Ekrar | I really like the gradient purple background. I also like how theres image for each specific part of the site, such as stuffed animals for the part talking about smart support animals. | I think the website should be more responsive for mobile users, parts of the text are overlapping.
+
+Ranking:
+- [] Make my text and images more responsive to fit all devices
+- [] Being more responsive for iphone users
+- [] Size of images to be responsive
+- [] fixing the allignment of the cards
