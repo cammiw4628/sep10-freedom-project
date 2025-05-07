@@ -15,7 +15,7 @@
 }
 
 .fix {
-    width: 30%;
+    width: 35%;
 }
 
 .quote {
@@ -69,4 +69,10 @@ body {
 .title {
     text-align: center;
     font-size: 100px;
+}
+
+.list {
+    color: white;
+    background: #7f7ad6;
+    background: linear-gradient(90deg, rgba(127, 122, 214, 1) 15%, rgba(150, 101, 214, 1) 50%, rgba(168, 63, 191, 1) 85%);
 }
