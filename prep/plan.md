@@ -37,7 +37,7 @@
 #### Beyond MVP
 
 * Fix any errors in my website
-* Add components like list group
+* More tool usage
 
 #### Peer Feedback
 
