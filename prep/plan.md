@@ -53,3 +53,8 @@ Ranking:
 - [] Being more responsive for iphone users
 - [] Size of images to be responsive
 - [] fixing the allignment of the cards
+
+Last Minute Revisions:
+ - [] fix software and hardware cards to be readable
+ - [] fix my cards to not crumble together for phone users
+ - [] spacing for software and hardware section
