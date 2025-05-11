@@ -1,5 +1,4 @@
 .intro {
-    border: 1px solid black;
 }
 
 .photo {
@@ -15,12 +14,12 @@
 }
 
 .carousel {
-    width: 35%;
+    height: auto;
+    width: 55%;
 }
 
 .quote {
     font-family: Kaushan Script;
-    text-align: center;
     font-size: 70px;
 }
 
@@ -66,8 +65,12 @@ body {
 }
 
 .title {
-    text-align: center;
     font-size: 100px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .list {
@@ -79,3 +82,13 @@ body {
 .fix {
     width: 90%;
 }
+
+@media  (max-width: 1100px) {
+    .title {
+        font-size: 40px;
+    }
+    .quote {
+        font-size: 25px;
+    }
+}
+
