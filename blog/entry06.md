@@ -21,7 +21,8 @@ To fix this solution I started using something other than `rem` and used `100%` 
 ![Screenshot 2025-05-10 7 54 18 PM](https://github.com/user-attachments/assets/1186eceb-11e0-42a9-94a2-2b296da8f1c1)
 
 ## Engineering Design Process
-We are currently in step
+We are currently in step 5 of engineering design process because we are creating our website but we are moving towards step 6 to test out our website when we start to present them. But currently we are creating our website and trying to go beyond our mvp to be improved. I still need to make my website more responsive on both devices, mobile and computer, which will take up some time and try to fix any other errors that I have missed.
+
 ## Skills
 
 [Previous](entry05.md) | [Next](entry07.md)
