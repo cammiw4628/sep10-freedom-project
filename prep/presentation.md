@@ -5,13 +5,19 @@
 
 ## Product
 * The products functions and the benefits
+   *  Using different images of my innovation
+   *  A list of benefits of psychology
 
 ## Process
 * Talking about the MVP and tool
+  *  I can show code snippets of my challenges I had with my home page.
+       *   Showing the use of media query.
+  *  Show the page of animate.css tool that helped me learn my tool.
 
 ## Conclusion
-* Why psychology plays a huge role in our life
-* Permanent URL
+* My takeaways would be to always try something new, even if you have difficulty and does not turn out the best, like my media query mentioned before in my process.
+* Briefly mention about my quote and why it means a lot to me when making this project.
+* Permanent URL.
 
 <!-- EXAMPLE
 
