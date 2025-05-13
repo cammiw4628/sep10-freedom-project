@@ -1,16 +1,17 @@
 # Presentation Plan
 
 ## Hook
-* 
+* A hook questioning if technology can determine the feeling of a person and the human mind.
 
 ## Product
-* 
+* The products functions and the benefits
 
 ## Process
-* 
+* Talking about the MVP and tool
 
 ## Conclusion
-* 
+* Why psychology plays a huge role in our life
+* Permanent URL
 
 <!-- EXAMPLE
 
