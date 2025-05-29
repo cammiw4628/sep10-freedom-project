@@ -4,10 +4,9 @@
 * A hook questioning if technology can determine the feeling of a person and the human mind.
 
 ## Product
-* The products functions and the benefits
-   *  Using different images of my innovation
-   *  A list of benefits of psychology
-
+* The website
+   *  Showing off my website
+   *  show the my future innovations
 ## Process
 * Talking about the MVP and tool
   *  I can show code snippets of my challenges I had with my home page.
