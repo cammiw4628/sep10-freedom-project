@@ -4,9 +4,11 @@ by **Cammi Wong**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **psychology**. 
+For my project, I chose the topic of **psychology**. Psychology is the study of human minds, which is an important topic to be aware about because there are issues that many individuals experience that many people may not know any solution to it, so psychology comes in to research these issues to help other people. A major issue is that mental health of many people are decreasing, as well as losing motivation and decreasing self-esttem.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study Animate.css in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Animate.CSS** in order to help me make my website and look presentable to users.
+
+## Content
 
 ## Links
 
