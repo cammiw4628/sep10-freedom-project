@@ -9,7 +9,7 @@ For my project, I chose the topic of **psychology**. Psychology is the study of 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Animate.CSS** in order to help me make my website and look presentable to users.
 
 ## Content
-
+My blog contains information about my steps of researching and coding to finish my **Freedom Project.** My blog has 
 ## Links
 
 [Product](https://cammiw4628.github.io/sep10-freedom-project/)
@@ -39,6 +39,3 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
