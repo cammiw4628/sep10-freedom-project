@@ -12,7 +12,7 @@ For my in-class presentation I felt more nervous compared to the elevator pitch 
  * Try your best when you are presenting
 
 ## Sources
-[My Notes](https://docs.google.com/document/d/1tfEQQy_7AIRXShNNYYAJz9-FLN8IBDUQ_FvzeW2jySw/edit?tab=t.0#heading=h.6o1f62qg6jz9)
+[My Notes](https://docs.google.com/document/d/1tfEQQy_7AIRXShNNYYAJz9-FLN8IBDUQ_FvzeW2jySw/edit?tab=t.0#heading=h.6o1f62qg6jz9)       
 [My Slides](https://docs.google.com/presentation/d/12L73VpHOyYinmAZwQF8_afenQpk2v77hdC4LoMKFePA/edit?slide=id.g357ffb4221f_0_0#slide=id.g357ffb4221f_0_0)
 ## Engineering Design Process
 
