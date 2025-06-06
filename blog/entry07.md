@@ -15,7 +15,7 @@ For my in-class presentation I felt more nervous compared to the elevator pitch 
 [My Notes](https://docs.google.com/document/d/1tfEQQy_7AIRXShNNYYAJz9-FLN8IBDUQ_FvzeW2jySw/edit?tab=t.0#heading=h.6o1f62qg6jz9)       
 [My Slides](https://docs.google.com/presentation/d/12L73VpHOyYinmAZwQF8_afenQpk2v77hdC4LoMKFePA/edit?slide=id.g357ffb4221f_0_0#slide=id.g357ffb4221f_0_0)
 ## Engineering Design Process
-
+I currently am on **step 8** of the engineering design process, where I will be communicate the results of my website. I have already finished class presentation and the expo but now I am moving toward the showcase. This will be the very last step when I present my website that I have took the whole year to learn and create. I will be adding this freedom project to my profolio as well, for people to be able to visit and look into the website that I made.
 ## Skills   
 
 [Previous](entry06.md) | [Next](entry08.md)
