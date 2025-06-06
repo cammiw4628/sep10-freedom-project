@@ -4,7 +4,7 @@ by **Cammi Wong**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **psychology**. Psychology is the study of human minds, which is an important topic to be aware about because there are issues that many individuals experience that many people may not know any solution to it, so psychology comes in to research these issues to help other people. A major issue is that mental health of many people are decreasing, as well as losing motivation and decreasing self-esttem.
+For my project, I chose the topic of **psychology**. Psychology is the study of human minds, which is an important topic to be aware about because there are issues that many individuals experience that many people may not know any solution to it, so psychology comes in to research these issues to help other people. A major issue is that mental health of many people are decreasing, as well as losing motivation and decreasing self-esteem.
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Animate.CSS** in order to help me make my website and look presentable to users.
 
@@ -20,14 +20,14 @@ My blog contains information about my steps of researching and coding to finish 
 ## Implications
 ##### PROS
 * Social
-   *   Can help individuals become of their health.
+   *   Can help individuals with their health.
    *   Boost someone's mental health and self-esteem.
-   *   Forms better self care for yourself.
+   *   Forms better self-care for yourself.
    *   Knowledge gained about psychology.
 ##### CONS
 * Social
    *   People may avoid to seek mental help when it is needed.
-   *   Indivuals may not see any other solution from different viewpoints.
+   *   Individuals may not see any other solution from different viewpoints.
    *   Some individuals may push themselves too hard to be a better version of themselves.
 
 ## Blog
